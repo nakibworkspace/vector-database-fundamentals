@@ -44,3 +44,5 @@ def ingest_pdf(pdf_path):
 if __name__ == "__main__":
     # Ensure a pdf exists in data/sample.pdf
     ingest_pdf("data/sample.pdf")
+    ingest_pdf("data/sample2.pdf")
+    ingest_pdf("data/sample3.pdf")
